@@ -13,7 +13,5 @@ import java.util.*;
                     System.out.println(sentence.substring(index+1));
                 }
             }
-        }
-        
+        }     
     }
-    
